@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = upiedi@gmail.com
+	name = Ulysse Piediscalzi
