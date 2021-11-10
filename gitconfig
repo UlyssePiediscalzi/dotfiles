@@ -52,3 +52,5 @@
 [user]
 	email = upiedi@gmail.com
 	name = Ulysse Piediscalzi
+[http]
+	version = HTTP/2
